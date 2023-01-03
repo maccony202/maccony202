@@ -2,8 +2,8 @@
 
 <h1 align='center'>Hi, I am Nana Antwi</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Utsargo%20Roy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/utsargo-roy//)](https://linkedin.com/in/nana-antwi-collins-21b423244?)
-[![Twitter Badge](https://img.shields.io/badge/-@royutsargo_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@royutsargo)](https://twitter.com/Januaryhappine2)
+[![Linkedin Badge](https://img.shields.io/badge/-Utsargo%20Roy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Nana-Antwi-Collins//)](https://linkedin.com/in/nana-antwi-collins-21b423244?)
+[![Twitter Badge](https://img.shields.io/badge/-@royutsargo_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@januaryhappines2)](https://twitter.com/Januaryhappine2)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nanastef10@hotmail.com)
 
 ### A little bit about me
